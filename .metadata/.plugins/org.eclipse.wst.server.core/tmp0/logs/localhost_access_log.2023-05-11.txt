@@ -1,0 +1,17 @@
+127.0.0.1 - - [11/May/2023:13:46:37 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/May/2023:13:46:43 +0700] "GET /Entertainment_Online/IndexServlet1 HTTP/1.1" 200 22086
+0:0:0:0:0:0:0:1 - - [11/May/2023:13:46:43 +0700] "GET /Entertainment_Online/css/index.css HTTP/1.1" 200 8911
+0:0:0:0:0:0:0:1 - - [11/May/2023:13:46:43 +0700] "GET /Entertainment_Online/css/SlideAuto.css HTTP/1.1" 200 2326
+0:0:0:0:0:0:0:1 - - [11/May/2023:13:46:43 +0700] "GET /Entertainment_Online/js/index.js HTTP/1.1" 200 421
+0:0:0:0:0:0:0:1 - - [11/May/2023:13:46:43 +0700] "GET /Entertainment_Online/img/bg2.jpg HTTP/1.1" 200 42489
+0:0:0:0:0:0:0:1 - - [11/May/2023:13:46:43 +0700] "GET /Entertainment_Online/img/bg3.jpeg HTTP/1.1" 200 81178
+0:0:0:0:0:0:0:1 - - [11/May/2023:13:46:43 +0700] "GET /Entertainment_Online/img/logoweb-removebg.png HTTP/1.1" 200 51121
+0:0:0:0:0:0:0:1 - - [11/May/2023:13:46:43 +0700] "GET /Entertainment_Online/img/bg4.jpg HTTP/1.1" 200 46589
+0:0:0:0:0:0:0:1 - - [11/May/2023:13:46:43 +0700] "GET /Entertainment_Online/img/coca-cola.png HTTP/1.1" 200 16264
+0:0:0:0:0:0:0:1 - - [11/May/2023:13:46:43 +0700] "GET /Entertainment_Online/img/bg1.jpg HTTP/1.1" 200 314681
+0:0:0:0:0:0:0:1 - - [11/May/2023:13:46:43 +0700] "GET /Entertainment_Online/img/google-plus.png HTTP/1.1" 200 5976
+0:0:0:0:0:0:0:1 - - [11/May/2023:13:46:43 +0700] "GET /Entertainment_Online/img/bg.png HTTP/1.1" 200 197333
+0:0:0:0:0:0:0:1 - - [11/May/2023:13:46:43 +0700] "GET /Entertainment_Online/img/netflix.png HTTP/1.1" 200 2907
+0:0:0:0:0:0:0:1 - - [11/May/2023:13:46:43 +0700] "GET /Entertainment_Online/img/facebook.png HTTP/1.1" 200 3454
+0:0:0:0:0:0:0:1 - - [11/May/2023:13:46:43 +0700] "GET /Entertainment_Online/img/amazon.png HTTP/1.1" 200 6915
+0:0:0:0:0:0:0:1 - - [11/May/2023:13:46:43 +0700] "GET /Entertainment_Online/img/iconLogo.png HTTP/1.1" 200 2563

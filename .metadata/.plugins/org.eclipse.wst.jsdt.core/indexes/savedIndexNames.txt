@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+E:\FPT Polytechnic\JAVA_4\ASM\IT17305_TungTQPC04315_ASM_GD3\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+287887821.index
+150197991.index
+506367222.index
+3477548657.index
+231205128.index
+1082055973.index

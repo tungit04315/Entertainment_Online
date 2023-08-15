@@ -1,0 +1,15 @@
+INDEX VERSION 1.131
+E:\FPT Polytechnic\JAVA_4\ASM\IT17305_TungTQPC04315_ASM_GD3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2995658055.index
+\LAB8_JAVA4\src\main\java
+E:\FPT Polytechnic\JAVA_4\ASM\IT17305_TungTQPC04315_ASM_GD3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1323294518.index
+\Entertainment_Online\src\main\java
+E:\FPT Polytechnic\JAVA_4\ASM\IT17305_TungTQPC04315_ASM_GD3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4234003271.index
+\LAB8_JAVA4\src\main\java
+E:\FPT Polytechnic\JAVA_4\ASM\IT17305_TungTQPC04315_ASM_GD3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4116544910.index
+\LAB8_JAVA4\src\main\java
+E:\FPT Polytechnic\JAVA_4\ASM\IT17305_TungTQPC04315_ASM_GD3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4263120561.index
+\LAB8_JAVA4\src\main\java
+E:\FPT Polytechnic\JAVA_4\ASM\IT17305_TungTQPC04315_ASM_GD3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4113687594.index
+\LAB8_JAVA4\src\main\java
+E:\FPT Polytechnic\JAVA_4\ASM\IT17305_TungTQPC04315_ASM_GD3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4152941804.index
+\LAB8_JAVA4\src\main\java

@@ -1,0 +1,11 @@
+127.0.0.1 - - [10/May/2023:15:40:41 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/May/2023:15:40:42 +0700] "GET /Entertainment_Online/jsp/StatisticalVideo.jsp HTTP/1.1" 200 14327
+0:0:0:0:0:0:0:1 - - [10/May/2023:15:40:42 +0700] "GET /Entertainment_Online/jsp/css/index.css HTTP/1.1" 404 801
+0:0:0:0:0:0:0:1 - - [10/May/2023:15:40:42 +0700] "GET /Entertainment_Online/jsp/css/SlideAuto.css HTTP/1.1" 404 805
+0:0:0:0:0:0:0:1 - - [10/May/2023:15:40:42 +0700] "GET /Entertainment_Online/jsp/css/Manage.css HTTP/1.1" 404 802
+0:0:0:0:0:0:0:1 - - [10/May/2023:15:40:43 +0700] "GET /Entertainment_Online/jsp/img/iconLogo.png HTTP/1.1" 404 804
+0:0:0:0:0:0:0:1 - - [10/May/2023:15:41:09 +0700] "GET /Entertainment_Online/IndexServlet1 HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [10/May/2023:15:41:09 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [10/May/2023:15:41:14 +0700] "GET /Entertainment_Online/IndexServlet1 HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [10/May/2023:15:41:34 +0700] "GET /Entertainment_Online/IndexServlet1 HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [10/May/2023:15:41:35 +0700] "GET /favicon.ico HTTP/1.1" 404 762

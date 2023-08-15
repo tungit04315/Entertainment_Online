@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+.formUpdate {
+    background-color: #fff;
+    padding: 15px;
+}
+
+.formUpdate .row {
+    margin-bottom: 10px;
+}
+
+.formUpdate .row .btn {
+    margin-right: 10px;
+    margin-left: 15px;
+}
+
+.form-check .form-check-label {
+    margin-right: 30px;
+}
+
+.card_footer_QL {
+    margin-bottom: 30px;
+}
+
+.page_card_footer {
+    margin-top: -50px;
+    height: 10px;
+    margin-bottom: 20px;
+}
+
+.page_card_footer .pagination .badge {
+    margin-right: 900px;
+}
